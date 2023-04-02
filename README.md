@@ -13,6 +13,6 @@
   
 - <h3>How to use?</h3>
 
-    Run **store.sh** and store your password or retrive it.
+    Run **store.sh** and store your password or retrieve it.
  
  Do help me make it more user friendly and purposeful
